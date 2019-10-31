@@ -1,3 +1,15 @@
+// Program Name: BST Operations
+//
+// Description:  
+//  Using 3 methods for creating a Hash Table
+//  Also using a dynamic array of Linked Lists 
+//  
+// Author: Jason Yoon
+//
+//
+// IDE Used: Visual Microsoft
+//
+
 
 #include <iostream>
 #include <vector>
